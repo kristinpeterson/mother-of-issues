@@ -1,7 +1,12 @@
 [
     { 
-      "name": "test",
-      "owner": "kristinpeterson",
-      "category": "category-name"
+      "name": "GITHUB-REPO-NAME",
+      "owner": "GITHUB-REPO-OWNER",
+      "category": "CATEGORY-NAME"
+    },
+    { 
+      "name": "GITHUB-REPO-NAME",
+      "owner": "GITHUB-REPO-OWNER",
+      "category": "CATEGORY-NAME"
     }
 ]
